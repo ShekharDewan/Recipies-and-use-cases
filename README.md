@@ -178,4 +178,3 @@ process_folder(input_folder="/path/to/invoices", output_folder="output")
 This project demonstrates the power of modern AI vision models for document processing automation, with proper engineering making the difference between experimental prototypes and production-ready systems.
 
 ---
-Answer from Perplexity: pplx.ai/share
